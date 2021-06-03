@@ -6,7 +6,7 @@ layout: default
 <br>
 
 <div class="lead pretty-links">
-  GUMC is a _community-building_ organization with the adoption enterprise at its center.
+  GUMC is a <i>community-building</i> organization with the adoption enterprise at its center.
 
   We help vulnerable to grow strong together.
 
@@ -15,5 +15,5 @@ layout: default
   - St. Mark's School of Texas?
   - The National Debate Coaches Association?
   - Dallas Child Poverty Action Lab (CPAL)?
-  - 
+  - Commit Partnership?
 </div>
