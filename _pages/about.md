@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: Get Up, My Child.
 desc: About Us
 permalink: /about/
 ---
