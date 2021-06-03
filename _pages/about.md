@@ -8,24 +8,27 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Our mission.
-</div>
-
 {::nomarkdown} 
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
 {:/}
 
-We are a group dedicated to supporting neglected, abused, and abandoned children; 
-single mothers; adoptive families; and the elderly. We do so through community-building
-based on the [intentional neighboring model](https://neighbors-the-power-of-the-people-next-door.com/), 
-developed by Brenda Krause Eheart. We welcome partnerships with faith-based organizations, as we 
-believe that religious community and meaning-making can substantially aid our mission.
 
 ---
 
-## Quem fata quamvis
+## Our mission
+
+We are a group dedicated to supporting neglected, abused, and abandoned children; 
+single mothers; adoptive families; and the elderly. 
+
+---
+
+## Our beliefs
+
+We do so through community-building based on the [intentional neighboring model](https://neighbors-the-power-of-the-people-next-door.com/), developed by Brenda Krause Eheart. 
+We welcome partnerships with faith-based organizations, as we believe that religious 
+community and meaning-making can substantially aid our mission.
 
 Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
 sublimis conde!
