@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /home/
 ---
 <h1 class="page-title">Get Up, My Child.</h1>
 
