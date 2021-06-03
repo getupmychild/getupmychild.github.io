@@ -16,4 +16,6 @@ layout: default
   - The National Debate Coaches Association?
   - Dallas Child Poverty Action Lab (CPAL)?
   - Commit Partnership?
+  - Genesis Women's Shelter?
+  - Episcopal Diocese of Dallas?
 </div>
