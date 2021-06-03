@@ -8,7 +8,7 @@ layout: default
 <div class="lead pretty-links">
   GUMC is a <i>community-building</i> organization with the adoption enterprise at its center.
 
-  We help vulnerable to grow strong together.
+  We help the vulnerable to grow strong together.
 
   Partners:
   - The Dare to Dream Children's Foundation?
