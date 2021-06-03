@@ -23,7 +23,7 @@ community and meaning-making can substantially aid our mission.
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.png">
+    <img src="{{ site.baseurl }}/assets/img/Ammar.jpg">
 </figure>
 {:/}
 
@@ -33,7 +33,7 @@ community and meaning-making can substantially aid our mission.
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/Ammar.jpg">
+    <img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
 {:/}
 
