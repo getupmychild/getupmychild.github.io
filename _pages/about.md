@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
-desc: About me.
+subtitle: Get Up, My Child.
+desc: About Us
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">Our mission.
 </div>
 
 {::nomarkdown} 
@@ -17,10 +17,11 @@ permalink: /about/
 </figure>
 {:/}
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+We are a group dedicated to supporting neglected, abused, and abandoned children; 
+single mothers; adoptive families; and the elderly. We do so through community-building
+based on the [intentional neighboring model](https://neighbors-the-power-of-the-people-next-door.com/), 
+developed by Brenda Krause Eheart. We welcome partnerships with faith-based organizations, as we 
+believe that religious community and meaning-making can substantially aid our mission.
 
 ---
 
