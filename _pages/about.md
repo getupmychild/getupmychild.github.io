@@ -33,12 +33,12 @@ community and meaning-making can substantially aid our mission.
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.png">
+    <img src="{{ site.baseurl }}/assets/img/Jan.jpg">
 </figure>
 {:/}
 
 
-Mother sister cousin stack that cheese
+**Jan Tennyson** is the founder of the Dare to Dream Children's Foundation, and serves as Ammar's mentor in this project. She is a talented speaker, pianist, choreographer, and writer who ignites a flame in the hearts of her listeners. She grew up in the unstable foster care system in New York and through her love of Jesus Christ hopes to share messages of encouragement and hope with children of challenging circumstances. Learn more about Jan on [her foundation's website](https://www.daretodream-dallas.org/speaker.php).
 
 
 </div>
