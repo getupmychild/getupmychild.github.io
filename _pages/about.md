@@ -7,14 +7,10 @@ permalink: /about/
 
 <div class="pretty-links">
 
----
-
 ## Our mission
 
 We are a group dedicated to supporting neglected, abused, and abandoned children; 
 single mothers; adoptive families; and the elderly. 
-
----
 
 ## Our beliefs
 
