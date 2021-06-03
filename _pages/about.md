@@ -12,8 +12,6 @@ permalink: /about/
 We are a group dedicated to supporting neglected, abused, and abandoned children; 
 single mothers; adoptive families; and the elderly. 
 
-<br>
-
 ## Our beliefs
 
 We do so through community-building based on the [intentional neighboring model](https://neighbors-the-power-of-the-people-next-door.com/), developed by Brenda Krause Eheart. 
