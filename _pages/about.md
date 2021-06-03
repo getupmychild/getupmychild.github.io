@@ -31,5 +31,15 @@ community and meaning-making can substantially aid our mission.
 Something something something stack that cheese
 
 
+{::nomarkdown} 
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/profile.png">
+</figure>
+{:/}
+
+
+Mother sister cousin stack that cheese
+
+
 </div>
 
