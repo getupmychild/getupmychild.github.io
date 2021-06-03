@@ -6,9 +6,14 @@ layout: default
 <br>
 
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+  GUMC is a _community-building_ organization with the adoption enterprise at its center.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+  We help vulnerable to grow strong together.
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+  Partners:
+  - The Dare to Dream Children's Foundation?
+  - St. Mark's School of Texas?
+  - The National Debate Coaches Association?
+  - Dallas Child Poverty Action Lab (CPAL)?
+  - 
 </div>
