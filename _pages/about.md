@@ -17,5 +17,19 @@ We aspire to **build communities** based on the [intentional neighboring model](
 We welcome partnerships with faith-based organizations, as we believe that religious 
 community and meaning-making can substantially aid our mission.
 
+--- 
+
+## People
+
+{::nomarkdown} 
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/profile.png">
+</figure>
+{:/}
+
+
+Something something something stack that cheese
+
+
 </div>
 
