@@ -35,12 +35,12 @@ navigation:
   - title: About Us
     url: /about/
     desc: Who we are and what we do
-  - title: Articles
-    url: /articles/
-    desc: Posts
-  - title: Projects
-    url: /projects/
-    desc: Ongoing work
+#  - title: Articles
+#    url: /articles/
+#    desc: Articles
+#  - title: Projects
+#    url: /projects/
+#    desc: Ongoing work
   
 
 # Used by Jekyll to recognize what is a post and what is a page
