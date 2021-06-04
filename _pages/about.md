@@ -28,7 +28,7 @@ community and meaning-making can substantially aid our mission.
 {:/}
 
 
-**Ammar Plumber** is a grad student at the University of Pennsylvania. His mother was a foster child in India. While attending high school in Dallas, Ammar has worked with Genesis Women's Shelter, Voice of Hope Ministries, Hope's Door New Beginning Center, and other organizations dedicated to healing the vulnerable.
+**Ammar Plumber** is a grad student at the University of Pennsylvania. His mother was a foster child in India. While attending high school in Dallas, Ammar has worked with Genesis Women's Shelter, Voice of Hope Ministries, Hope's Door New Beginning Center, and other organizations dedicated to healing the vulnerable. Ammar is a deep thinker with a rich inner life. His undergraduate majors were in economics and philosophy, and he is currently pursuing a Master of Behavioral and Decision Science alongside a Graduate Certificate in Social, Cognitive & Affective Neuroscience. You can learn more about him through his [LinkedIn](https://www.linkedin.com/in/ammarplumber/), his [blog](https://ammarplumber.com/), or his [Google Scholar profile](https://scholar.google.com/citations?user=m3QRBSgAAAAJ&hl=en).
 
 
 {::nomarkdown} 
